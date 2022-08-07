@@ -17,8 +17,7 @@
 * How to **find** the Bot assistent on Telegram
 
 ***link*** http://t.me/angelollima_bot or ***direct search on Telegram***
-
-<img id="img" src="images/angelollima_bot.png" title="Bot assistant" alt="A picture of the bot" width="500px" height="160px">
+* **angelollima_bot**
 
 <p id="user_machine"></p>
 
@@ -43,8 +42,6 @@ You will need your bot token
 Create a new folder in your directory and create two files **apikey.txt** and **email.txt** (or whatever name you want to put)
 
 * In the *apikey.txt* file, put your bot's token. In the *email.txt* file, put your preferred email!
-
-#
 
 <p id="explaning"></p>
 
